@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Boas-vindas ao nosso repositório da Aula 9 de Inteligência Digital - Realidade Aumentada 3
 
-You can use the [editor on GitHub](https://github.com/ricmrios/ar-intdig2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Confira as atividades:
+[Gerando caixa em teste](https://ricmrios.github.io/ar-intdig2020/testear.html)
+[Gerando cubo com fotos](https://ricmrios.github.io/ar-intdig2020/testecubo.html)
+[Gerando plano com texto+imagem](https://ricmrios.github.io/ar-intdig2020/testeimagem_ok.html)
+[Colocando imagem de produto+texto gatilho](https://ricmrios.github.io/ar-intdig2020/testeproduto.html)
+[Gerando personagem em 3D](https://ricmrios.github.io/ar-intdig2020/testedesenho.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
