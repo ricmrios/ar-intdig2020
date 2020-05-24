@@ -7,6 +7,15 @@ Confira as atividades:
 [Colocando imagem de produto+texto gatilho](https://ricmrios.github.io/ar-intdig2020/testeproduto.html)
 [Gerando personagem em 3D](https://ricmrios.github.io/ar-intdig2020/testedesenho.html)
 
+### Prova prática dos alunos
+
+Confira:
+[4mation](https://ricmrios.github.io/ar-intdig2020/ar-4mation.html)
+[AWEN](https://ricmrios.github.io/ar-intdig2020/ar-awen.html)
+[B2B](https://ricmrios.github.io/ar-intdig2020/ar-b2b.html)
+[Four](https://ricmrios.github.io/ar-intdig2020/ar-four.html)
+[Lumos](https://ricmrios.github.io/ar-intdig2020/ar-lumos.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
